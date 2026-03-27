@@ -1,6 +1,6 @@
 ### 실행 방법
 ```bash
-# 추가적인 api kry 필요
+# 추가적인 api key 필요
 https://home.openweathermap.org/ 에 가입후 api key를 .env에 추가 바람
 
 # 가상환경 실행 후
