@@ -2,6 +2,7 @@
 ```bash
 # 추가적인 api key 필요
 https://home.openweathermap.org/ 에 가입후 api key를 .env에 추가 바람
+OPENWEATHERMAP_API_KEY=값 <--형태로 보통 가입 후 key 활성화 까지 30분 가량 소요됨
 
 # 가상환경 실행 후
 pip install -r requirements.txt
